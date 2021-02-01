@@ -2,11 +2,11 @@
     "restaurants": [
         {
             "imgUrl": "https://placehold.it/100/100",
-            "title": "Jolibee",
-            "rating": 5,
-            "ratingsCount": 125,
+            "title": "KFC",
+            "rating": 2,
+            "ratingsCount": 333,
             "price": 1,
-            "subtitle": "Crispy Chikenjoy is a must-have!"
+            "subtitle": "Not as good as it was..."
         },
         {
             "imgUrl": "https://placehold.it/100/100",
@@ -18,11 +18,27 @@
         },
         {
             "imgUrl": "https://placehold.it/100/100",
-            "title": "Jolibee",
-            "rating": 5,
-            "ratingsCount": 125,
+            "title": "Mc Donald's",
+            "rating": 2,
+            "ratingsCount": 999,
             "price": 1,
-            "subtitle": "Crispy Chikenjoy is a must-have!"
+            "subtitle": "Mc Chicken plus Mc Double"
+        },
+        {
+            "imgUrl": "https://placehold.it/100/100",
+            "title": "Bucca Di Beppo",
+            "rating": 4,
+            "ratingsCount": 200,
+            "price": 3,
+            "subtitle": "Have room for desserts."
+        },
+        {
+            "imgUrl": "https://placehold.it/100/100",
+            "title": "House of Prime Rib",
+            "rating": 5,
+            "ratingsCount": 551,
+            "price": 5,
+            "subtitle": "Horseradish is spicy!"
         }
     ]
 }

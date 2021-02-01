@@ -1,26 +1,28 @@
-[
-    {
-        "imgUrl": "https://placehold.it/100/100",
-        "title": "Jolibee",
-        "rating": 5,
-        "ratingsCount": 125,
-        "price": 1,
-        "subtitle": "Crispy Chikenjoy is a must-have!"
-    },
-    {
-        "imgUrl": "https://placehold.it/100/100",
-        "title": "Jolibee",
-        "rating": 5,
-        "ratingsCount": 125,
-        "price": 1,
-        "subtitle": "Crispy Chikenjoy is a must-have!"
-    },
-    {
-        "imgUrl": "https://placehold.it/100/100",
-        "title": "Jolibee",
-        "rating": 5,
-        "ratingsCount": 125,
-        "price": 1,
-        "subtitle": "Crispy Chikenjoy is a must-have!"
-    }
-]
+{
+    "restaurants": [
+        {
+            "imgUrl": "https://placehold.it/100/100",
+            "title": "Jolibee",
+            "rating": 5,
+            "ratingsCount": 125,
+            "price": 1,
+            "subtitle": "Crispy Chikenjoy is a must-have!"
+        },
+        {
+            "imgUrl": "https://placehold.it/100/100",
+            "title": "Jolibee",
+            "rating": 5,
+            "ratingsCount": 125,
+            "price": 1,
+            "subtitle": "Crispy Chikenjoy is a must-have!"
+        },
+        {
+            "imgUrl": "https://placehold.it/100/100",
+            "title": "Jolibee",
+            "rating": 5,
+            "ratingsCount": 125,
+            "price": 1,
+            "subtitle": "Crispy Chikenjoy is a must-have!"
+        }
+    ]
+}
